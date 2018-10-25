@@ -1,0 +1,14 @@
+7
+a|y|bb
+b|y|bb
+c|y|bb
+d|y|bb
+e|y|bb
+f|y|bb
+g|y|bb
+a|b
+b|c
+b|e
+c|d
+e|d
+d|f

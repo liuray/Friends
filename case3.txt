@@ -1,0 +1,11 @@
+5
+ray|y|rutgers
+liu|y|rutgers
+peng|y|penn
+rui|y|penn
+su|y|aaaaaa
+ray|liu
+liu|peng
+peng|rui
+rui|ray
+peng|su

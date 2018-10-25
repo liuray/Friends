@@ -1,0 +1,13 @@
+6
+a|y|apple
+b|y|apple
+c|y|apple
+d|y|apple
+e|y|apple
+f|y|apple
+a|b
+b|c
+e|b
+c|d
+d|e
+d|f

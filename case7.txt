@@ -1,0 +1,9 @@
+4
+a|y|rutgers
+b|y|rutgers
+c|y|penn
+d|y|penn
+a|b
+b|c
+c|d
+d|a

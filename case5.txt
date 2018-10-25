@@ -1,0 +1,6 @@
+3
+a|y|eee
+b|n
+c|n
+a|b
+b|c
